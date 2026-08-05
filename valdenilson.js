@@ -1,3 +1,0 @@
-
-let valdenilson_barbosa;
-
